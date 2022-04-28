@@ -1,0 +1,11 @@
+
+’
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õˆ¨ˆûÿÿÿÿ8ÏÈ—…0
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(º‚¼Æùÿÿÿÿ8ĞÈ—…0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Åõ8àÈ—…0
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ş¶àÿÿÿÿÿ8œÉ—…0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¶µ=8²É—…0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§ÇùÑ8·É—…0
